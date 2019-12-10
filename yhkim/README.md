@@ -1,3 +1,4 @@
-## Develop Plan List
+# Develop Plan List
 
-### React Navtive Example 실행
+## 2019-12 1주차
+- React Navtive Example 실행
