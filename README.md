@@ -1,4 +1,4 @@
-# Weekly We Learned for HST
+# Weekly We Learned from the HST
 
 ### 2020 1분기 스터디
 - **주제**
