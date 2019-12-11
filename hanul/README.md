@@ -1,3 +1,7 @@
-## hanul
+# hanul
 
-## To do list
+## 2019-12-18
+- DDD start! 책 구매
+- spring 강의 듣고 정리
+- 알고리즘 풀기
+- 2019년 회고록 정리하기
