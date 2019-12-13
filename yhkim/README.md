@@ -6,3 +6,4 @@
 ## 2019-12 1주차
 - React Navtive Example 실행
 - HST DDD 스터디 주제 목표 설정 (DDD START 도서 구매)
+- ~~HST KISA 해커톤 회고정리~~
