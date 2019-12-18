@@ -10,5 +10,9 @@
 
 ## 2019-12 2주차
 - React Navtive Example 실행
-- DDD Study 시작
-- JPA 맛보기
+- ~~DDD Study 시작~~
+- ~~JPA 맛보기~~
+
+## 2019-12 3주차
+- React Navtive Example 실행
+- DDD CHAPTER1 엔티티와 벨류 정리
