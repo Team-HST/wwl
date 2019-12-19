@@ -1,7 +1,8 @@
 # Develop Plan List
 
-## 2019-12 전체
+## ALL
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
+- 매주 블로그 1개이상 포스팅
 
 ## 2019-12 1주차
 - React Navtive Example 실행
@@ -16,3 +17,4 @@
 ## 2019-12 3주차
 - React Navtive Example 실행
 - DDD CHAPTER1 엔티티와 벨류 정리
+- JPA 공부
