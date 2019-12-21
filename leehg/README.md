@@ -4,10 +4,10 @@
 - 블로그 게시글 1개 작성하기
 
 ## 2019-12-23
-- [ ] DDD 스터디 - 엔티티 17p ~ 34p 정리하기
-- [ ] 블로그 포스트 1개 작성
+- [x] DDD 스터디 - 엔티티 17p ~ 34p 정리하기
+  - https://hyungyu-lee.github.io/books/content/better-developer/ddd-start!/1.html
+- [x] 블로그 포스트 1개 작성
 - [ ] Todo.io 체중관리 시각화 기능 개발 - 체중 그래프 그리기
-- [ ] 서울시 카페 데이터 DB 구축
 
 ## 2019-12-18
 - [x] DDD 스터디 - 책 준비
