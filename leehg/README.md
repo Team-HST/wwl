@@ -7,6 +7,7 @@
 - [x] DDD 스터디 - 엔티티 17p ~ 34p 정리하기
   - https://hyungyu-lee.github.io/books/content/better-developer/ddd-start!/1.html
 - [x] 블로그 포스트 1개 작성
+  - https://hyungyu-lee.github.io/articles/2019-12/spring-ehcache
 - [ ] Todo.io 체중관리 시각화 기능 개발 - 체중 그래프 그리기
 
 ## 2019-12-18
