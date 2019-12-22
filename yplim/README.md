@@ -9,4 +9,5 @@
  - [x] React-native 설치 및 기본예제 실행
  - [x] 해커톤 회고록 작성
  - [x] DDD-start 스터디 책 구입
- - [ ] 블로그 게시글 1개 이상 작성
+ - [x] 블로그 게시글 1개 이상 작성
+  - https://yupyo.tistory.com/21
