@@ -16,5 +16,5 @@
 
 ## 2019-12 3주차
 - React Navtive Example 실행
-- DDD CHAPTER1 엔티티와 벨류 정리
+- ~~~DDD CHAPTER1 엔티티와 벨류 정리~~~
 - ~~React Redux 공부~~
