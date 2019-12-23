@@ -1,5 +1,19 @@
 # Weekly We Learned from the HST
 
+### 멤버
+<a href="https://github.com/dudgns0612">
+  <image src="https://avatars2.githubusercontent.com/u/19623586?s=400&v=4" alt="김영훈" width="64" height="64">
+</a>
+<a href="https://github.com/hanull">
+  <image src="https://avatars3.githubusercontent.com/u/46413629?s=400&v=4" alt="이한울" width="64" height="64">
+</a>
+<a href="https://github.com/hyungyu-lee">
+  <image src="https://avatars3.githubusercontent.com/u/19619055?s=400&v=4" alt="이현규" width="64" height="64">
+</a>
+<a href="https://github.com/shl9012">
+  <image src="https://avatars3.githubusercontent.com/u/20180662?s=400&v=4" alt="임유표" width="64" height="64">
+</a>
+    
 ### 스터디 진행 규칙
 #### 1. 기본
 - 하나의 주제와 책 1권을 선정하여 한 분기동안 스터디를 진행합니다.
@@ -58,7 +72,6 @@
   
 - **벌금 일람**
   - `김영훈`: 0
-  - `임유표`: 0
   - `이한울`: 0
   - `이현규`: 0
-  
+  - `임유표`: 0
