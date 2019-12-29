@@ -17,10 +17,11 @@
 ## 2019-12 4주차
 - ~~React Navtive Example 실행~~
 - ~~DDD CHAPTER1 엔티티와 벨류 정리~~
-  - https://app.gitbook.com/@dudgns0612/s/book-study/ddd-start/1chapter
+  - https://app.gitbook.com/@dudgns0612/s/book-study/ddd-start/domain_start
 - ~~React Redux 공부~~
 
 ## 2020-1 1주차
 - React Native Nomard강의 날씨 어플리케이션 만들기
 - 2019년 회고록 작성
 - ~~DDD CHAPTER2 개인영역 gitbook 작성~~
+  - https://dudgns0612.gitbook.io/book-study/ddd-start/architecture
