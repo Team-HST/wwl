@@ -15,7 +15,7 @@
 - ~~JPA 맛보기~~
 
 ## 2019-12 3주차
-- React Navtive Example 실행
+- ~~React Navtive Example 실행~~
 - ~~DDD CHAPTER1 엔티티와 벨류 정리~~
   - https://app.gitbook.com/@dudgns0612/s/book-study/ddd-start/1chapter
 - ~~React Redux 공부~~
