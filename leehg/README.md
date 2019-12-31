@@ -8,7 +8,8 @@
   - https://hyungyu-lee.github.io/articles/2019-12/grpc-1
 - [x] Todo.io 체중관리 시각화 기능 개발
   - [x] 시각화 표에 증감율 데이터 표시하기
-- [ ] DDD 스터디 - 도메인 영역 주요 구성요소
+- [x] DDD 스터디 - 도메인 영역 주요 구성요소
+  - https://hyungyu-lee.github.io/books/content/architecture/ddd-start!/2.html
 - [x] RE:Minder github 로그인 연동하기
   - [x] reminder-fe에 로그인 페이지 추가
   - [x] reminder-be에 기능구현
