@@ -1,6 +1,6 @@
 # Yupyo Lim - Todo List
 ## 2019.12
- - [ ] LOL CLAN 통계 사이트 요구사항 및 기능 정리
+ - [x] LOL CLAN 통계 사이트 요구사항 및 기능 정리
 ## 2019.12.26 - 2019.01.01
  - [ ] DDD-start 아키텍처 챕터 정리
  - [ ] DDD-start DIP 발표 준비
