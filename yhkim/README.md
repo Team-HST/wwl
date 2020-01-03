@@ -23,6 +23,6 @@
 ## 2020-1 1주차
 - ~~React Native Nomard강의 날씨 어플리케이션 시작하기~~
 - 2019년 회고록 작성
-- Gatsby 정적 블로그 생성
+- ~~Gatsby 정적 블로그 생성~~
 - ~~DDD CHAPTER2 개인영역 gitbook 작성~~
   - https://dudgns0612.gitbook.io/book-study/ddd-start/architecture
