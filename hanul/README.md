@@ -5,12 +5,18 @@
 > \# 알고리즘 3문제 풀기<br> 
 > \# spring 강의 듣기
 
+## 2020-01-09
+- 팀 블로그 개설 및 지난 DDD 스터디 내용 정리
+- DDD스터디 3장 - 애그리거트
+- Union−Find 포스팅 및 관련 문제 풀기
+- 2020년 To Do List 작성하기
+
 ## 2020-01-02
 - ~~Gatsby+netlify로 기술 블로그 완성하기~~
 - 2019년 회고록 작성 완료
 - 2020년 To Do List 작성하기
-- 책 한권 읽기(아주 작은 습관의 힘)
-- [ddd 스터디 공부 - 아키텍처 개요](https://github.com/hanull/TIL/tree/master/docs/DDD/아키텍처개요.md)
+- ~~책 한권 읽기(아주 작은 습관의 힘)~~
+- ~~[ddd 스터디 공부 - 아키텍처 개요](https://github.com/hanull/TIL/tree/master/docs/DDD/아키텍처개요.md)~~
 
 ## 2019-12-23
 - ~~2019년 회고록 정리 및 작성~~
