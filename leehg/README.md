@@ -6,7 +6,8 @@
 ## 2020-01-09
 - [ ] 블로그 프레임워크 전환 (Jekyll -> Gatsby)
 - [ ] 블로그 포스트 1개 작성
-- [ ] DDD 스터디 - 3장 리포지터리와 애그리거트 정리
+- [x] DDD 스터디 - 3장 리포지터리와 애그리거트 정리
+  - https://hyungyu-lee.github.io/books/content/architecture/ddd-start!/3.html
 - [x] RE:Minder 개발
   - [x] OAuth 인증 관련 부분 리팩토링
 
