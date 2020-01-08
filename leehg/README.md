@@ -5,7 +5,8 @@
 
 ## 2020-01-09
 - [ ] 블로그 프레임워크 전환 (Jekyll -> Gatsby)
-- [ ] 블로그 포스트 1개 작성
+- [x] 블로그 포스트 1개 작성
+  - https://hyungyu-lee.github.io/articles/2020-01/grpc-2
 - [x] DDD 스터디 - 3장 리포지터리와 애그리거트 정리
   - https://hyungyu-lee.github.io/books/content/architecture/ddd-start!/3.html
 - [x] RE:Minder 개발
