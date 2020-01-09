@@ -16,7 +16,7 @@
 - **모듈 구성**
   
 ## 발표 내용 정리
-- **[아키텍처 개요](https://github.com/Team-HST/books)**
+- **[아키텍처 개요](https://team-hst.netlify.com/posts/DDD/chapter2/)**
 
 ## 차주 'ITEM' 분담 <CHAPTER 3>
 - 김영훈 : \#애그리거트, 리포지터리와 애그리거트
