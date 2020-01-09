@@ -28,6 +28,6 @@
   - https://dudgns0612.gitbook.io/book-study/ddd-start/architecture
 
 ## 2020-1 2주차
-- up-note firebase 설정 todo 기능 구현
+- ~~up-note firebase 설정 todo 기능 구현~~
 - tistory gatsby로 포스팅
 - carrer 정리
