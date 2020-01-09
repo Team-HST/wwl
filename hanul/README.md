@@ -6,9 +6,9 @@
 > \# spring 강의 듣기
 
 ## 2020-01-16
-- hanul-tips 만들기
-- ddd 스터디 공부 - 레파지토리와 모델 구현
-- 운영체제 1장 포스팅
+- [ ] hanul-tips 만들기
+- [ ] ddd 스터디 공부 - 레파지토리와 모델 구현
+- [ ] 운영체제 1장 포스팅
 
 ## 2020-01-09
 - ~~[팀 블로그 개설 및 지난 DDD 스터디 내용 정리](https://team-hst.netlify.com/category/domaindrivendesign/)~~
