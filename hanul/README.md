@@ -6,32 +6,33 @@
 > \# spring 강의 듣기
 
 ## 2020-01-16
-- [ ] hanul-tips 만들기
+- [x] hanul-tips 만들기
+- [ ] Union−Find 포스팅 및 관련 문제 풀기
 - [ ] ddd 스터디 공부 - 레파지토리와 모델 구현
 - [ ] 운영체제 1장 포스팅
 
 ## 2020-01-09
-- ~~[팀 블로그 개설 및 지난 DDD 스터디 내용 정리](https://team-hst.netlify.com/category/domaindrivendesign/)~~
-- ~~[DDD스터디 3장 - 애그리거트](https://hanul-dev.netlify.com/DomainDrivenDesign/애그리거트)~~
-- Union−Find 포스팅 및 관련 문제 풀기
-- ~~2020년 To Do List 작성하기~~
+- [x] [팀 블로그 개설 및 지난 DDD 스터디 내용 정리](https://team-hst.netlify.com/category/domaindrivendesign/)
+- [x] [DDD스터디 3장 - 애그리거트](https://hanul-dev.netlify.com/DomainDrivenDesign/애그리거트)
+- [ ] Union−Find 포스팅 및 관련 문제 풀기
+- [x] 2020년 To Do List 작성하기
 
 ## 2020-01-02
-- ~~Gatsby+netlify로 기술 블로그 완성하기~~
+- [x] Gatsby+netlify로 기술 블로그 완성하기
 - 2019년 회고록 작성 완료
 - 2020년 To Do List 작성하기
-- ~~책 한권 읽기(아주 작은 습관의 힘)~~
-- ~~[ddd 스터디 공부 - 아키텍처 개요](https://hanul-dev.netlify.com/DomainDrivenDesign/아키텍처-개요)~~
+- [x] 책 한권 읽기(아주 작은 습관의 힘)
+- [x] [ddd 스터디 공부 - 아키텍처 개요](https://hanul-dev.netlify.com/DomainDrivenDesign/아키텍처-개요)
 
 ## 2019-12-23
-- ~~2019년 회고록 정리 및 작성~~
-- ~~TIL 게시판 생성하기~~
+- [x] 2019년 회고록 정리 및 작성
+- [x] TIL 게시판 생성하기
 - 오전 운동 4회 이상
 - 책 한권 읽기(아주 작은 습관의 힘)
-- ~~[ddd 스터디 공부 - 도메인](https://hanul-dev.netlify.com/DomainDrivenDesign/도메인-모델-시작)~~
+- [x] [ddd 스터디 공부 - 도메인](https://hanul-dev.netlify.com/DomainDrivenDesign/도메인-모델-시작)
 
 ## 2019-12-18
-- ~~DDD start! 책 구매~~
-- ~~spring 강의 듣고 정리~~
-- ~~알고리즘 풀기~~
-- ~~2019년 회고록 정리하기~~
+- [x] DDD start! 책 구매
+- [x] spring 강의 듣고 정리
+- [x] 알고리즘 풀기
+- [x] 2019년 회고록 정리하기
