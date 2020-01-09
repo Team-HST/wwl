@@ -29,5 +29,7 @@
 
 ## 2020-1 2주차
 - ~~up-note firebase 설정 todo 기능 구현~~
+- ~~DDD CHAPTER3 개인영역 gitbook 작성~~
+  - https://dudgns0612.gitbook.io/book-study/ddd-start/aggregate
 - tistory gatsby로 포스팅
 - carrer 정리
