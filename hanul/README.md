@@ -7,7 +7,7 @@
 
 ## 2020-01-09
 - ~~[팀 블로그 개설 및 지난 DDD 스터디 내용 정리](https://team-hst.netlify.com/category/domaindrivendesign/)~~
-- DDD스터디 3장 - 애그리거트
+- ~~[DDD스터디 3장 - 애그리거트](https://hanul-dev.netlify.com/DomainDrivenDesign/애그리거트)~~
 - Union−Find 포스팅 및 관련 문제 풀기
 - ~~2020년 To Do List 작성하기~~
 
