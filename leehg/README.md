@@ -5,7 +5,8 @@
 
 ## 2020-01-16
 - [ ] 블로그 프레임워크 전환 (Jekyll -> Gatsby)
-- [ ] 블로그 포스트 1개 작성
+- [x] 블로그 포스트 1개 작성
+  - https://hyungyu-lee.github.io/articles/2020-01/hikaricp-issue
 - [ ] DDD 스터디 - 4장 리포지터리와 모델 구현 (JPA 중심)
 - [ ] RE:Minder 개발
   - [ ] 수신채널 설정 기능 만들기 (메일 채널)
