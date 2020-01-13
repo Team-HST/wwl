@@ -4,13 +4,18 @@
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
 
+## 2020-2 주차
+- DDD CHAPTER4 개인영역 gitbook 작성
+- gatsby DDD 정리
+- carrer 정리
+
 ## 2020-1 2주차
 - ~~up-note firebase 설정 todo 기능 구현~~
 - ~~DDD CHAPTER3 개인영역 gitbook 작성~~
   - https://dudgns0612.gitbook.io/book-study/ddd-start/aggregate
-- DDD CHAPTER3 Team blog 정리
-- tistory gatsby로 포스팅
-- carrer 정리
+- ~~DDD CHAPTER3 Team blog 정리~~
+- ~~tistory gatsby로 포스팅~~
+- ~~carrer 정리~~
 
 ## 2020-1 1주차
 - ~~React Native Nomard강의 날씨 어플리케이션 시작하기~~
