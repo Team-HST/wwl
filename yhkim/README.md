@@ -7,7 +7,7 @@
 ## 2020-2 주차
 - DDD CHAPTER4 개인영역 gitbook 작성
 - gatsby DDD 정리
-- carrer 정리
+- ~~carrer 정리~~
 
 ## 2020-1 2주차
 - ~~up-note firebase 설정 todo 기능 구현~~
