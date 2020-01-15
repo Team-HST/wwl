@@ -7,7 +7,7 @@
 ## 2020-2 주차
 - DDD CHAPTER4 개인영역 gitbook 작성
 - gatsby DDD 정리
-- ~~carrer 정리~~
+- ~~career 정리~~
 
 ## 2020-1 2주차
 - ~~up-note firebase 설정 todo 기능 구현~~
@@ -15,7 +15,7 @@
   - https://dudgns0612.gitbook.io/book-study/ddd-start/aggregate
 - ~~DDD CHAPTER3 Team blog 정리~~
 - ~~tistory gatsby로 포스팅~~
-- ~~carrer 정리~~
+- ~~career 정리~~
 
 ## 2020-1 1주차
 - ~~React Native Nomard강의 날씨 어플리케이션 시작하기~~
