@@ -6,7 +6,7 @@
 
 ## 2020-1 3주차
 - DDD CHAPTER4 개인영역 gitbook 작성
-- gatsby DDD 정리
+- ~~gatsby DDD 정리~~
 - ~~career 정리~~
 
 ## 2020-1 2주차
