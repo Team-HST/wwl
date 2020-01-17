@@ -3,8 +3,10 @@
  - [ ] clangg 프로젝트 기본 구조 잡기
 
 ## 2020.01.16 - 2020.01.22
- - [ ] 블로그 게시글 1개 포스팅하기
- - [ ] Gatsby-netlify 호스팅하기
+ - [x] 블로그 게시글 1개 포스팅하기
+  - https://yupyo.tistory.com/24
+ - [x] Gatsby-netlify 호스팅하기
+  - yplog.netlify.com
  - [ ] clangg 프로젝트 git 연동해서 올리기
 
 ## 2020.01.09 - 2020.01.15
