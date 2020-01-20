@@ -4,8 +4,12 @@
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
 
+## 2020-1 4주차
+- DDD CHAPTER5 개인영역 정리
+- JPA 공부 
+
 ## 2020-1 3주차
-- DDD CHAPTER4 개인영역 gitbook 작성
+- ~~DDD CHAPTER4 개인영역 gitbook 작성~~
 - ~~gatsby DDD 정리~~
 - ~~career 정리~~
 
