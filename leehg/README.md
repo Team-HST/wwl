@@ -3,15 +3,17 @@
 ## 매 주 고정
 - 블로그 게시글 1개 작성하기
 
-## 2020-01-20
-- [ ] 블로그 프레임워크 전환 (Jekyll -> Gatsby, 2주 계획)
-  - [ ] 애드센드 설정
-- [x] 블로그 포스트 1개 작성
-  - https://deveely-log.netlify.com/2020-01-16-hikaricp-with-connection-leak/
+## 2020-01-22
 - [ ] DDD 스터디 - 4장 리포지터리와 모델 구현 (JPA 중심)
 - [ ] RE:Minder 개발
-  - [ ] Dashboard 화면 구성 기획
-  - [ ] 알림 등록 기능 구현
+  - [ ] Dashboard 기능에 들어갈 컨텐츠 기획
+  - [ ] SettingView 구현 관련 `Publisher` 모델링
+
+## 2020-01-20
+- [x] 블로그 프레임워크 전환 (Jekyll -> Gatsby, 2주 계획)
+  - [x] 애드센드 설정 (Google Search Console 색인 대기)
+- [x] 블로그 포스트 1개 작성
+  - https://deveely-log.netlify.com/2020-01-16-hikaricp-with-connection-leak/
   
 ## 2020-01-16
 - [x] 블로그 프레임워크 전환 (Jekyll -> Gatsby, 2주 계획)
