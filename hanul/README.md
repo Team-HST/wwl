@@ -8,8 +8,14 @@
 ## 2020-01-23
 - [ ] Union−Find 포스팅 및 관련 문제 풀기
 - [ ] ddd 공부내용 정리 - 레파지토리와 모델 구현
-- [ ] 운영체제 1장 정리
-
+- [ ] linux 용어 정리
+  - [diff patch](https://hiseon.me/c/diff-patch/)
+  - ls -m 등
+  - [cat](http://www.incodom.kr/Linux/%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4/cat)
+  - [tar](https://realforce111.tistory.com/40)
+  - [link file](https://websecurity.tistory.com/8)
+  - [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
+  
 ## 2020-01-16
 - [x] hanul-tips 만들기
 - [ ] Union−Find 포스팅 및 관련 문제 풀기
