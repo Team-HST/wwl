@@ -10,10 +10,7 @@
 - [ ] ddd 공부내용 정리 - 레파지토리와 모델 구현
 - [ ] linux 용어 정리
   - [ ] [diff patch](https://hiseon.me/c/diff-patch/)
-  - [x] ls -m 등
-  - [x] cat
-  - [x] tar
-  - [x] ln
+  - [x] basic(ls -m ,cat, tar, ln..)
   - [ ] [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
   - [ ] [git-ls-files](https://explainshell.com/explain?cmd=git-ls-files+-m+-o+-i+--exclude-standard)
   
