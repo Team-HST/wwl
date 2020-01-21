@@ -9,12 +9,13 @@
 - [ ] Union−Find 포스팅 및 관련 문제 풀기
 - [ ] ddd 공부내용 정리 - 레파지토리와 모델 구현
 - [ ] linux 용어 정리
-  - [diff patch](https://hiseon.me/c/diff-patch/)
-  - ls -m 등
-  - [cat](http://www.incodom.kr/Linux/%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4/cat)
-  - [tar](https://realforce111.tistory.com/40)
-  - [link file](https://websecurity.tistory.com/8)
-  - [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
+  - [ ] [diff patch](https://hiseon.me/c/diff-patch/)
+  - [x] ls -m 등
+  - [x] cat
+  - [x] tar
+  - [x] ln
+  - [ ] [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
+  - [ ] [git-ls-files](https://explainshell.com/explain?cmd=git-ls-files+-m+-o+-i+--exclude-standard)
   
 ## 2020-01-16
 - [x] hanul-tips 만들기
