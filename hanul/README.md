@@ -13,8 +13,9 @@
   - [x] basic(ls -m ,cat, tar, ln..)
   - [ ] [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
   - [ ] [git-ls-files](https://explainshell.com/explain?cmd=git-ls-files+-m+-o+-i+--exclude-standard)
-  - [ ] find, tr, groups, sed
+  - [ ] find, tr, groups, sed, cut, mac주소 확인하기
   - [ ] [exec,basename](https://m.blog.naver.com/PostView.nhn?blogId=onlyoll&logNo=220281085129&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+  - [ ] [grep](https://ra2kstar.tistory.com/100)
   
 ## 2020-01-16
 - [x] hanul-tips 만들기
