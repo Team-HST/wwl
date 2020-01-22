@@ -13,7 +13,8 @@
   - [x] basic(ls -m ,cat, tar, ln..)
   - [ ] [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
   - [ ] [git-ls-files](https://explainshell.com/explain?cmd=git-ls-files+-m+-o+-i+--exclude-standard)
-  - [ ] tr
+  - [ ] find, tr, groups, sed
+  - [ ] [exec,basename](https://m.blog.naver.com/PostView.nhn?blogId=onlyoll&logNo=220281085129&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
   
 ## 2020-01-16
 - [x] hanul-tips 만들기
