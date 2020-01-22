@@ -5,10 +5,10 @@
 - 매주 블로그 1개이상 포스팅
 
 ## 2020-1 4주차
-- DDD CHAPTER5 개인영역 정리
-- JPA 공부 
+- ~~DDD CHAPTER5 개인영역 정리~~
+- JPA ORM 표준 책 chapter1~5 공부
 
-## 2020-1 3주차
+## 2020-1 3주차 
 - ~~DDD CHAPTER4 개인영역 gitbook 작성~~
 - ~~gatsby DDD 정리~~
 - ~~career 정리~~
