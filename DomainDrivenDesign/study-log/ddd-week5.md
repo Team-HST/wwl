@@ -15,9 +15,9 @@
 - 책에 나오는 주문 관련 테이블들을 대상으로 실제로 매핑해보는 실습을 한다.
   - Spring Boot + JPA 활용
 - 상세계획
-  0. [JPA 책 온라인 자료](https://ultrakain.gitbooks.io/jpa/)에서 아래 내용을 사전에 학습
-    - `1. JPA 소개 ~ 5. 연관관계 매핑 기초` 내용 읽어볼 것
-  1. Spring Initializer로 프로젝트 생성
-  2. 개발DB에 실습 스키마 구축
-  3. 각자 DB 모델을 엔티티로 매핑
-  4. CRUD 기능 제작
+  1. [JPA 책 온라인 자료](https://ultrakain.gitbooks.io/jpa/)에서 아래 내용을 사전에 학습
+    > `1. JPA 소개 ~ 5. 연관관계 매핑 기초` 내용 읽어볼 것
+  2. Spring Initializer로 프로젝트 생성
+  3. 개발DB에 실습 스키마 구축
+  4. 각자 DB 모델을 엔티티로 매핑
+  5. CRUD 기능 제작
