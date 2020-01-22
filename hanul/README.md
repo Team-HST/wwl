@@ -16,6 +16,7 @@
   - [ ] find, tr, groups, sed, cut, mac주소 확인하기
   - [ ] [exec,basename](https://m.blog.naver.com/PostView.nhn?blogId=onlyoll&logNo=220281085129&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
   - [ ] [grep](https://ra2kstar.tistory.com/100)
+  - [ ] [vi,vim 사용 시, 개행문자 제거,cat으로 작성하면 됨.](https://jootc.com/p/20180305676)
   
 ## 2020-01-16
 - [x] hanul-tips 만들기
