@@ -3,6 +3,11 @@
 ## 매 주 고정
 - 블로그 게시글 1개 작성하기
 
+## 2020-01-29
+- [ ] 블로그 포스트 1개 작성
+- [ ] RE:Minder 개발
+  - [ ] SettingView 구현 - Publisher 조회 등록 삭제 기능 구현
+
 ## 2020-01-22
 - [x] DDD 스터디 - 4장 리포지터리와 모델 구현 (JPA 중심)
   - https://hyungyu-lee.github.io/books/content/architecture/ddd-start!/4.html
