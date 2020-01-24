@@ -6,7 +6,7 @@
 ## 2020-01-29
 - [ ] 블로그 포스트 1개 작성
 - [ ] RE:Minder 개발
-  - [ ] SettingView 구현 - Publisher 조회 등록 삭제 기능 구현
+  - [ ] SettingView 구현 - Publisher 관리(CRUD) 구현
 
 ## 2020-01-22
 - [x] DDD 스터디 - 4장 리포지터리와 모델 구현 (JPA 중심)
