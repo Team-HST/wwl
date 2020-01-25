@@ -5,12 +5,12 @@
 > \# 알고리즘 3문제 풀기<br> 
 > \# spring 강의 듣기
 
-## 2020-01-23
+## 2020-01-29
 - [ ] Union−Find 포스팅 및 관련 문제 풀기
-- [ ] ddd 공부내용 정리 - 레파지토리와 모델 구현
+- [ ] vi, vim에서 문자 일관 변경하기 (https://swiftymind.tistory.com/67)
+- [ ] c언어 공부 및 정리
 - [ ] linux 용어 정리
   - [ ] [diff patch](https://hiseon.me/c/diff-patch/)
-  - [x] basic(ls -m ,cat, tar, ln..)
   - [ ] [git reset -soft ..](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
   - [ ] [git-ls-files](https://explainshell.com/explain?cmd=git-ls-files+-m+-o+-i+--exclude-standard)
   - [ ] find, tr, groups, cut, mac주소 확인하기
@@ -18,6 +18,13 @@
   - [ ] [grep](https://ra2kstar.tistory.com/100)
   - [ ] [vi,vim 사용 시, 개행문자 제거,cat으로 작성하면 됨.](https://jootc.com/p/20180305676)
   - [ ] [sed, awk 정리](https://mozi.tistory.com/35)
+
+  
+## 2020-01-23
+- [ ] Union−Find 포스팅 및 관련 문제 풀기
+- [x] ddd 공부내용 정리 - 레파지토리와 모델 구현
+- [x] linux 용어 정리
+  - [x] basic(ls -m ,cat, tar, ln..)
   
 ## 2020-01-16
 - [x] hanul-tips 만들기
