@@ -6,7 +6,7 @@
 
 ## 2020-1 5주차
 - ~~JPA ORM 표준 책 chapter1~5 공부~~
-- career 마무리
+- ~~career 마무리~~
 - react redux 미들웨어 공부
 
 ## 2020-1 4주차
