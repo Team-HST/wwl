@@ -5,7 +5,7 @@
 - 매주 블로그 1개이상 포스팅
 
 ## 2020-1 5주차
-- JPA ORM 표준 책 chapter1~5 공부
+- ~~JPA ORM 표준 책 chapter1~5 공부~~
 - career 마무리
 - react redux 미들웨어 공부
 
