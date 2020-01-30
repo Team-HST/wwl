@@ -4,6 +4,11 @@
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
 
+## 2020-2 1주차
+- JPA 스터디 공부
+- HST reminder 설정변경
+- Do it Vue.js 입문 도서 chapter1-3 공부 
+
 ## 2020-1 5주차
 - ~~JPA ORM 표준 책 chapter1~5 공부~~
 - ~~career 마무리~~
