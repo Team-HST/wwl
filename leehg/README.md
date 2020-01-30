@@ -3,10 +3,16 @@
 ## 매 주 고정
 - 블로그 게시글 1개 작성하기
 
-## 2020-01-29
+## 2020-02-07
 - [ ] 블로그 포스트 1개 작성
+- [ ] Java Study Mentoring
+  - [ ] 스터디 일정 수립
 - [ ] RE:Minder 개발
-  - [ ] SettingView 구현 - Publisher 관리(CRUD) 구현
+  - [ ] SettingView 구현 - Publisher 등록, 삭제, 수정 기능 구현
+
+## 2020-01-30
+- [x] RE:Minder 개발
+  - [x] SettingView 구현 - Publisher 목록 조회 기능 구현
 
 ## 2020-01-22
 - [x] DDD 스터디 - 4장 리포지터리와 모델 구현 (JPA 중심)
