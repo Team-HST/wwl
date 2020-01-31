@@ -5,8 +5,9 @@
 
 ## 2020-02-07
 - [ ] 블로그 포스트 1개 작성
-- [ ] Java Study Mentoring
-  - [ ] 스터디 일정 수립
+- [x] Java Study Mentoring
+  - [x] 스터디 일정 수립
+    - https://github.com/HyunGyu-Lee/basic-java/blob/master/README.md
 - [ ] RE:Minder 개발
   - [ ] SettingView 구현 - Publisher 등록, 삭제, 수정 기능 구현
 
