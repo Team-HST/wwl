@@ -4,12 +4,13 @@
 - 블로그 게시글 1개 작성하기
 
 ## 2020-02-07
-- [ ] 블로그 포스트 1개 작성
+- [x] 블로그 포스트 1개 작성
+  - https://deveely-log.netlify.com/2020-01-31-test-with-junit5/
 - [x] Java Study Mentoring
   - [x] 스터디 일정 수립
     - https://github.com/HyunGyu-Lee/basic-java/blob/master/README.md
-- [ ] RE:Minder 개발
-  - [ ] SettingView 구현 - Publisher 등록, 삭제, 수정 기능 구현
+- [x] RE:Minder 개발
+  - [ ] 프로젝트 멤버 추가로 관련 기획/설계 공유
 
 ## 2020-01-30
 - [x] RE:Minder 개발
