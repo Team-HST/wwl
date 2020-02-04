@@ -6,6 +6,7 @@
 ## 2020-02-07
 - [x] 블로그 포스트 1개 작성
   - https://deveely-log.netlify.com/2020-01-31-test-with-junit5/
+  - todo: Spring Boot에서 Validation API 사용 관련 (1.1 -> 2.0)
 - [x] Java Study Mentoring
   - [x] 스터디 일정 수립
     - https://github.com/HyunGyu-Lee/basic-java/blob/master/README.md
