@@ -6,7 +6,7 @@
 
 ## 2020-2 1주차
 - ~~JPA 스터디 공부~~
-- HST reminder 설정변경
+- ~~HST reminder 설정변경~~
 - ~~Do it Vue.js 입문 도서 chapter1-3 공부~~
 - crareer 재정리
 
