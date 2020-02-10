@@ -4,11 +4,19 @@
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
 
+## 2020-2 2주차
+- node.js & Express.js 책 서치 및 맛보기
+- react 공부하기 
+  - 비동기 미들웨어
+  - react-router
+- study jpa 진행 후 복습
+- reminder 기능정의 (hyungye.lee)
+
 ## 2020-2 1주차
 - ~~JPA 스터디 공부~~
 - ~~HST reminder 설정변경~~
 - ~~Do it Vue.js 입문 도서 chapter1-3 공부~~
-- crareer 재정리
+- ~~crareer 재정리~~
 
 ## 2020-1 5주차
 - ~~JPA ORM 표준 책 chapter1~5 공부~~
