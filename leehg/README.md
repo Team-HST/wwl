@@ -3,6 +3,13 @@
 ## 매 주 고정
 - 블로그 게시글 1개 작성하기
 
+## 2020-02-13
+- [ ] 블로그 포스트 1개 작성
+- [ ] RE:Minder 개발
+  - [ ] Code API Docs 추가
+  - [ ] Travis -> TOAST Console 배포 방법 조사
+
+
 ## 2020-02-07
 - [x] 블로그 포스트 1개 작성
   - https://deveely-log.netlify.com/2020-01-31-test-with-junit5/
@@ -11,7 +18,7 @@
   - [x] 스터디 일정 수립
     - https://github.com/HyunGyu-Lee/basic-java/blob/master/README.md
 - [x] RE:Minder 개발
-  - [ ] 프로젝트 멤버 추가로 관련 기획/설계 공유
+  - [x] 프로젝트 멤버 추가로 관련 기획/설계 공유
 
 ## 2020-01-30
 - [x] RE:Minder 개발
