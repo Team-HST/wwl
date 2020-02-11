@@ -8,6 +8,7 @@
 - [ ] RE:Minder 개발
   - [ ] Code API Docs 추가
   - [ ] Travis -> TOAST Console 배포 방법 조사
+  - [ ] Publisher CRUD API 개발
 
 
 ## 2020-02-07
