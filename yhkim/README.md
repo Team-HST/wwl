@@ -6,10 +6,10 @@
 
 ## 2020-2 2주차
 - node.js & Express.js 책 서치 및 맛보기
-- react 공부하기 
+- ~~react 공부하기~~
   - ~~비동기 미들웨어~~
-  - react-router
-- study jpa 진행 후 복습
+  - ~~react-router~~
+- ~~study jpa 진행 후 복습~~
 - reminder 기능정의 (hyungye.lee)
 
 ## 2020-2 1주차
