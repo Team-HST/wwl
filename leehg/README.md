@@ -3,12 +3,16 @@
 ## 매 주 고정
 - 블로그 게시글 1개 작성하기
 
-## 2020-02-13
+## 2020-02-19
 - [ ] 블로그 포스트 1개 작성
-- [ ] RE:Minder 개발
-  - [ ] Code API Docs 추가
+- [x] RE:Minder 개발
   - [ ] Travis -> TOAST Console 배포 방법 조사
   - [ ] Publisher CRUD API 개발
+
+## 2020-02-13
+- [ ] 블로그 포스트 1개 작성
+- [x] RE:Minder 개발
+  - [x] Code API Docs 추가
 
 
 ## 2020-02-07
