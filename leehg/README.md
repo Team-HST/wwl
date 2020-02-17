@@ -10,7 +10,8 @@
   - [ ] Publisher CRUD API 개발
 
 ## 2020-02-13
-- [ ] 블로그 포스트 1개 작성
+- [x] 블로그 포스트 1개 작성
+  - https://deveely-log.netlify.com/2020-02-17-spring-boot-dependencies/
 - [x] RE:Minder 개발
   - [x] Code API Docs 추가
 
