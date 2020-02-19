@@ -7,7 +7,7 @@
 ## 2020-2 3주차
 - reminder 기능정의 (hyungye.lee)
 - career 재정리
-- JPA 스터디 후 복습 & DDD 스터디 결과에 따라 DDD 4장정리
+- ~~JPA 스터디 후 복습 & DDD 스터디 결과에 따라 DDD 4장정리~~
 - ~~React Router 공부~~
 
 ## 2020-2 2주차
