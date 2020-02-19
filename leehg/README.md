@@ -4,9 +4,11 @@
 - 블로그 게시글 1개 작성하기
 
 ## 2020-02-19
-- [ ] 블로그 포스트 1개 작성
+- [x] 블로그 포스트 1개 작성
+  - https://deveely-log.netlify.com/2020-02-18-centos-install-git/
+  - https://deveely-log.netlify.com/2020-02-19-centos-install-jenkins/
 - [x] RE:Minder 개발
-  - [ ] Travis -> TOAST Console 배포 방법 조사
+  - [x] Jenkins -> TOAST Cloud 형태로 빌드&배포 환경 구축
   - [ ] Publisher CRUD API 개발
 
 ## 2020-02-13
