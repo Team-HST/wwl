@@ -16,7 +16,7 @@
   - ~~비동기 미들웨어~~
   - ~~react-router~~
 - ~~study jpa 진행 후 복습~~
-- reminder 기능정의 (hyungye.lee)
+- ~~reminder 기능정의 (hyungye.lee) (다음 주 진행)~~
 
 ## 2020-2 1주차
 - ~~JPA 스터디 공부~~
