@@ -9,7 +9,7 @@
 - DDD CHAPTER4 스터디 정리
 - React 함수형,클래스 컴포넌트 공부
 - career 정리 마무리
-- up_note 소스코드 정리
+- ~~up_note 소스코드 정리 (디렉토리 구조 변경)~~
 
 ## 2020-2 3주차
 - ~~reminder 기능정의 (hyungye.lee)~~
