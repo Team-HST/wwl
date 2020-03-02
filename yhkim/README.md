@@ -15,7 +15,7 @@
 ## 2020-2 3주차
 - [x] reminder 기능정의 (hyungye.lee) `진행 중`
 - [x] career 정리
-- [] JPA 스터디 후 복습 & DDD 스터디 결과에 따라 DDD 4장정리 `차주 진행`
+- [ ] JPA 스터디 후 복습 & DDD 스터디 결과에 따라 DDD 4장정리 `차주 진행`
 - [x] React Router 공부
 
 ## 2020-2 2주차
