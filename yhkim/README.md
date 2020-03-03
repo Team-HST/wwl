@@ -5,9 +5,13 @@
 - 매주 블로그 1개이상 포스팅
 
 ## 2020-3 1주차
+- [ ] reminder issue 체크 수정
+- [ ] up_note 구조 마무리
+- [ ] DDD CHAPTER4 스터디 진행
 
 ## 2020-2 4주차
 - [x] DDD CHAPTER4 스터디 정리
+  - https://dudgns0612.gitbook.io/book-study/ddd-start/repository_model
 - [x] React 함수형,클래스 컴포넌트 공부
 - [x] career 정리 마무리
 - [x] up_note 소스코드 정리 (디렉토리 구조 변경)
