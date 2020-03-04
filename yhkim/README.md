@@ -7,7 +7,8 @@
 ## 2020-3 1주차
 - [ ] reminder issue 체크 수정
 - [ ] up_note 구조 마무리
-- [ ] DDD CHAPTER4 스터디 진행
+- [x] DDD CHAPTER4 스터디 진행
+  - 이펙티브 자바 스터디 변경 진행
 
 ## 2020-2 4주차
 - [x] DDD CHAPTER4 스터디 정리
