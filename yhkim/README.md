@@ -3,12 +3,14 @@
 ## ALL
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
+- 가능한 매일 운동 30분
 
 ## 2020-3 1주차
-- [ ] reminder issue 체크 수정
+- [x] reminder issue 체크 수정
 - [ ] up_note 구조 마무리
+- [ ] 이펙티브 자바 도서 스터디 
 - [x] DDD CHAPTER4 스터디 진행
-  - 이펙티브 자바 스터디 변경 진행
+  - 이펙티브 자바 스터디 변경 진행 (도서구매 완료)
 
 ## 2020-2 4주차
 - [x] DDD CHAPTER4 스터디 정리
