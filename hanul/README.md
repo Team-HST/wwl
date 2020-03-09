@@ -5,6 +5,11 @@
 > \# 알고리즘 3문제 풀기<br> 
 > \# spring 강의 듣기
 
+## 2020-03-11
+- [ ] libft part2 함수 구현 완료
+- [ ] libft bonus part 학습 및 구현: linked list
+- [ ] 메모리 구조, Union-Find 포스팅
+
 ## 2020-03-04
 - [ ] 메모리 구조, Union-Find 포스팅
 - [ ] 라피신 회고록 포스팅 완료하기
@@ -19,7 +24,6 @@
 - [ ] ddd 스터디 (4장 레포지토리와 모델구현)
 
 ## 2020-01-29
-- [ ] Union−Find 포스팅 및 관련 문제 풀기
 - [ ] vi, vim에서 문자 일관 변경하기 (https://swiftymind.tistory.com/67)
 - [ ] c언어 공부 및 정리
 - [ ] linux 용어 정리
