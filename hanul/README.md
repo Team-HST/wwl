@@ -7,7 +7,7 @@
 
 ## 2020-03-11
 - [x] libft part2 함수 구현 완료
-- [ ] libft bonus part 학습 및 구현: linked list
+- [x] libft bonus part 학습 및 구현: linked list
 - [ ] 메모리 구조, Union-Find 포스팅
 
 ## 2020-03-04
