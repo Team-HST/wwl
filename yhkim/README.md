@@ -8,6 +8,7 @@
 ## 2020-3 2주차
 - [ ] Effective Java 3E 스터디 진행 및 차주 목표 정리
 - [ ] up_note 구조 정리
+- [x] reminer 진행 정리
 
 ## 2020-3 1주차
 - [x] reminder issue 체크 수정
