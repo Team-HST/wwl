@@ -55,6 +55,12 @@ class Americano extends Coffee {
 		
 		public Builder(Size size, Type type, Ice ice) {
 			super(size);
+			if (type == null) {
+				throw new IllegalArgumentException("===================== TYPE IS REQUIRED");
+			}
+			if (ice == null) {
+				throw new IllegalArgumentException("===================== ICE IS REQUIRED");
+			}
 			this.type = Objects.requireNonNull(type);
 			this.ice = Objects.requireNonNull(ice);
 		}
@@ -100,6 +106,9 @@ class CaffeMocca extends Coffee {
 		
 		public Builder(Size size, Type type) {
 			super(size);
+			if (type == null) {
+				throw new IllegalArgumentException("====================== TYPE IS REQUIRED");
+			}
 			this.type = Objects.requireNonNull(type);
 		}
 		
