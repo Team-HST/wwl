@@ -6,9 +6,9 @@
 - 가능한 매일 운동 30분
 
 ## 2020-3 4주차
-- [] Effective Java 3E 스터디 진행 및 차주 목표 정리
-- [] Effective Java 3E item 2 빌더 패턴 다시 공부
-- [] npm CLI 만들어 보기
+- [ ] Effective Java 3E 스터디 진행 및 차주 목표 정리
+- [ ] Effective Java 3E item 2 빌더 패턴 다시 공부
+- [ ] npm CLI 만들어 보기
 
 ## 2020-3 3주차
 - [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
