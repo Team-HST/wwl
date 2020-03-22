@@ -6,8 +6,8 @@
 - 가능한 매일 운동 30분
 
 ## 2020-3 3주차
-- [ ] Effective Java 3E 스터디 진행 및 차주 목표 정리
-- [ ] React redux-persist 공부
+- [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
+- [x] React redux-persist 공부
 
 ## 2020-3 2주차
 - [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
