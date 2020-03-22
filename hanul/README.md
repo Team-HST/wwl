@@ -5,11 +5,19 @@
 > \# 알고리즘 3문제 풀기<br> 
 > \# spring 강의 듣기
 
-## 2020-03-18
+## 2020-03-26
+- [x] 싱글톤 패턴 포스팅
+- [x] 객체 정의 포스팅
 - [ ] 메모리 구조, Union-Find 포스팅
-- [ ] get_next_line, makefile 구현
+- [ ] get_next_line, makefile, ft_print 구현
+- [ ] effective java 스터디 준비 (아이템5 ~ 아이템8)
+
+## 2020-03-18
+- [x] effective java 스터디 준비 (아이템1 ~ 아이템4)
+- [ ] 메모리 구조, Union-Find 포스팅
+- [x] get_next_line, makefile 구현
 - [ ] ft_print 공부 및 구현
-- [ ] effective java 스터디 준비 (아이템1 ~ 아이템4)
+
 
 ## 2020-03-11
 - [x] libft part2 함수 구현 완료
