@@ -9,8 +9,9 @@
 - [x] 싱글톤 패턴 포스팅
 - [x] 객체 정의 포스팅
 - [ ] 메모리 구조, Union-Find 포스팅
-- [ ] get_next_line, makefile, ft_print 구현
+- [ ] get_next_line, ft_print 구현
 - [ ] effective java 스터디 준비 (아이템5 ~ 아이템8)
+- [ ] item2 설명 가능한 수준까지
 
 ## 2020-03-18
 - [x] effective java 스터디 준비 (아이템1 ~ 아이템4)
