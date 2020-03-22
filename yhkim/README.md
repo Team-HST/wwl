@@ -5,8 +5,14 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-3 4주차
+- [] Effective Java 3E 스터디 진행 및 차주 목표 정리
+- [] Effective Java 3E item 2 빌더 패턴 다시 공부
+- [] npm CLI 만들어 보기
+
 ## 2020-3 3주차
 - [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
+  - https://dudgns0612.gitbook.io/book-study/effective-java-3e/objectcreate_destruction
 - [x] React redux-persist 공부
 
 ## 2020-3 2주차
