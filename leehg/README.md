@@ -4,8 +4,17 @@
 - 블로그 게시글 1개 작성하기
 - 블로그 포스트에 이미지 넣기
 
-## 2020-03-21
+## 2020-03-27
 - [ ] 블로그 포스트 1개 작성
+- [ ] 이펙티브 자바 스터디
+  - 아이템 5 ~ 8 정리
+- [ ] RE:Minder 개발
+  - [x] 개발환경 구축
+  - [ ] [Logback FileAppender 적용](https://github.com/Team-HST/reminder/issues/12)
+
+## 2020-03-21
+- [x] 블로그 포스트 1개 작성
+  - https://deveely-log.netlify.com/2020-03-21-spring-boot-profiles/
 - [x] 이펙티브 자바 스터디
   - 아이템 1 ~ 4 정리
 - [x] RE:Minder 개발
