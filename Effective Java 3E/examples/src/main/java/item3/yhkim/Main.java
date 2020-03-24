@@ -18,5 +18,7 @@ public class Main {
         SafeSingle SAFESINGLE2 = Serializer.deserialize(byteSafeSingle, SAFESINGLE.getClass());
         System.out.println(SAFESINGLE2.age);
         System.out.println(SAFESINGLE == SAFESINGLE2);
+
+        System.out.println(EnumSingle.SINGLE.age);
     }
 }
