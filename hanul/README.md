@@ -5,12 +5,20 @@
 > \# 알고리즘 3문제 풀기<br> 
 > \# spring 강의 듣기
 
+## 2020-04-16
+- [ ] 원격 환경 세팅 완료하기
+- [ ] 메모리 구조 포스팅
+- [ ] TIL 재구성하기 
+- [ ] 자료구조 정리 및 문제 풀이 (linked list, stack)
+- [ ] get_next_line, ft_print 구현
+- [ ] effective java 스터디 준비 (아이템13 ~ 아이템16)
+
 ## 2020-03-26
 - [x] 싱글톤 패턴 포스팅
 - [x] 객체 정의 포스팅
-- [ ] 메모리 구조, Union-Find 포스팅
-- [ ] get_next_line, ft_print 구현
-- [ ] effective java 스터디 준비 (아이템5 ~ 아이템8)
+- [x] JVM, GC, 인터프리터와 컴파일러 포스팅
+- [x] get_next_line, ft_print 구현
+- [x] effective java 스터디 준비 (아이템5 ~ 아이템8)
 - [ ] item2 설명 가능한 수준까지
 
 ## 2020-03-18
