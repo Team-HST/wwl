@@ -5,8 +5,8 @@
 - 블로그 포스트에 이미지 넣기
 
 ## 2020-04-10
-- [ ] RE:Minder 개발
-  - [ ] [Logback FileAppender 적용](https://github.com/Team-HST/reminder/issues/12)
+- [x] RE:Minder 개발
+  - [x] [Logback FileAppender 적용](https://github.com/Team-HST/reminder/issues/12)
 
 ## 2020-04-03
 
