@@ -4,13 +4,18 @@
 - 블로그 게시글 1개 작성하기
 - 블로그 포스트에 이미지 넣기
 
-## 2020-03-27
-- [ ] 블로그 포스트 1개 작성
-- [ ] 이펙티브 자바 스터디
-  - 아이템 5 ~ 8 정리
+## 2020-04-10
 - [ ] RE:Minder 개발
-  - [x] 개발환경 구축
   - [ ] [Logback FileAppender 적용](https://github.com/Team-HST/reminder/issues/12)
+
+## 2020-04-03
+
+## 2020-03-27
+- [x] 이펙티브 자바 스터디
+  - 아이템 5 ~ 8 정리
+- [x] RE:Minder 개발
+  - [x] 개발환경 구축
+  - [x] [발행자 관리 기능 FE 개발](https://github.com/Team-HST/reminder/issues/17)
 
 ## 2020-03-21
 - [x] 블로그 포스트 1개 작성
