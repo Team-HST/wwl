@@ -6,7 +6,7 @@
 - 가능한 매일 운동 30분
 
 ## 2020-4 2주차
-- [ ] Effective Java 3E 스터디 진행 및 차주 목표 정리
+- [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
 - [ ] reminder 소스이해
 - [x] 개발이력 정리 `digitalTwin`
 
