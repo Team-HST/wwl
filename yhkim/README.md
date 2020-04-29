@@ -8,7 +8,7 @@
 ## 2020-4 3주차
 - [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
 - [ ] reminder 채널등록 view 작업
-- [ ] 개발이력 정리
+- [x] 개발이력 정리
 
 ## 2020-4 2주차
 - [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
