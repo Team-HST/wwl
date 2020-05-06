@@ -10,7 +10,7 @@
 - [ ] reminder 채널등록 view server api 연계
 
 ## 2020-4 4주차
-- [ ] Effective Java 3E 스터디 차주로 진행
+- [x] Effective Java 3E 스터디 차주로 진행
 
 ## 2020-4 3주차
 - [x] Effective Java 3E 스터디 진행 및 차주 목표 정리
