@@ -3,13 +3,19 @@
 
 ## every single week
 > \# 알고리즘 3문제 풀기<br> 
-> \# spring 강의 듣기
+> \# 인프런 spring 강의 듣기
+
+## 2020-05-27
+- [ ] 자료구조(linked list, stack, queue) TIL 에 정리하기
+- [ ] Leetcode 풀기
+- [ ] get_next_line 풀기
+- [ ] IBM-HACK ERD 완료, 개발 시작
 
 ## 2020-05-14
 - [ ] 팀 블로그에 주간 내용 정리 (아이템9 ~ 아이템 16)
-- [ ] get_next_line 풀기
+- [x] get_next_line 풀기
 - [ ] 자료구조 TIL repo에 정리하기 및 PS(수영장 그룹 - 자료구조 부분)
-- [ ] 알고리즘 기출 풀기
+- [x] 알고리즘 기출 풀기
 
 ## 2020-04-23
 - [x] 자료구조 정리 및 문제 풀이 (linked list, stack)
