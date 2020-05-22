@@ -8,7 +8,7 @@
 - [ ] reminder 채널등록 server api 연계
 - [x] IBM 해커톤 아이디어 회의 및 접수
   - 참가 6/12일 진행 (프로젝트 leaning-hub 진행)
-- [ ] leaning-hub FrontEnd 초기설정 및 템플릿 적용
+- [x] leaning-hub FrontEnd 초기설정 및 템플릿 적용 
 
 ## 2020-5 2주차
 - [x] IBM 해커톤 아이디어 회의
