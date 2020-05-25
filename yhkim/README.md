@@ -4,8 +4,13 @@
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
+
+## 2020-5 4주차
+- [ ] leaning-hub FrontEnd 초기설정 및 템플릿 적용
+
 ## 2020-5 3주차
 - [ ] reminder 채널등록 server api 연계
+  - 해커톤 진행 후 작업
 - [x] IBM 해커톤 아이디어 회의 및 접수
   - 참가 6/12일 진행 (프로젝트 leaning-hub 진행)
 - [x] leaning-hub FrontEnd 초기설정 및 템플릿 적용 
