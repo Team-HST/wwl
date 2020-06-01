@@ -5,11 +5,17 @@
 > \# 알고리즘 3문제 풀기<br> 
 > \# 인프런 spring 강의 듣기
 
+## 2020-06-07
+- [ ] 자료구조(queue) TIL 에 정리 및 구현
+- [ ] Leetcode(queue) 풀기
+- [ ] T아카데미 스프링 부트 완강
+- [ ] IBM-HACK 개발 및 재구현
+
 ## 2020-05-27
-- [ ] 자료구조(linked list, stack, queue) TIL 에 정리하기
-- [ ] Leetcode 풀기
+- [x] 자료구조(linked list, stack, queue) TIL 에 정리하기
+- [x] Leetcode 풀기
 - [ ] get_next_line 풀기
-- [ ] IBM-HACK ERD 완료, 개발 시작
+- [x] IBM-HACK ERD 완료, 개발 시작
 
 ## 2020-05-14
 - [ ] 팀 블로그에 주간 내용 정리 (아이템9 ~ 아이템 16)
