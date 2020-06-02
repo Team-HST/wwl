@@ -5,8 +5,12 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-6 1주차
+- [ ] leaning-hub FrontEnd 회원가입, 로그인, 컨텐츠 개발
+- [ ] retry 준비
+
 ## 2020-5 4주차
-- [ ] leaning-hub FrontEnd 초기설정 및 템플릿 적용
+- [x] leaning-hub FrontEnd 초기설정 및 템플릿 적용
 
 ## 2020-5 3주차
 - [ ] reminder 채널등록 server api 연계
