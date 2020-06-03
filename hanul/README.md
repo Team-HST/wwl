@@ -6,7 +6,7 @@
 > \# 인프런 spring 강의 듣기
 
 ## 2020-06-07
-- [ ] 자료구조(queue) TIL 에 정리 및 구현
+- [x] 자료구조(queue) TIL 에 정리 및 구현
 - [ ] Leetcode(queue) 풀기
 - [ ] T아카데미 스프링 부트 완강
 - [ ] IBM-HACK 개발 및 재구현
