@@ -4,10 +4,15 @@
 - 블로그 게시글 1개 작성하기
 - 블로그 포스트에 이미지 넣기
 
+## 2020-06-09
+- [x] 블로그 포스트 작성
+  - https://deveely-log.netlify.app/2020-06-01-linux-zipping/
+- [x] LeaningHub 컨텐츠 API 개발 진행
+
 ## 2020-04-23
-- [ ] 이펙티브 자바 스터디
+- [x] 이펙티브 자바 스터디
   - 아이템 13 ~ 16 정리
-- [ ] RE:Minder 개발
+- [x] RE:Minder 개발
   - [ ] [채널 관리 기능 개발 진행](https://github.com/Team-HST/reminder/issues/18) 
 
 ## 2020-04-10
