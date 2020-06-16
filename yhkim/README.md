@@ -7,13 +7,15 @@
 ## 2020-6 3주차
 - [x] aws 인스턴스 생성
 - [ ] leaning-hub 작업
+- [ ] DB Index 공부
+- [ ] up_note 템플릿 검토
 
 ## 2020-6 2주차
 - IBM 해커톤 참가
 
 ## 2020-6 1주차
-- [ ] leaning-hub FrontEnd 회원가입, 로그인, 컨텐츠 개발
-- [ ] retry 준비
+- [x] leaning-hub FrontEnd 회원가입, 로그인, 컨텐츠 개발
+- [x] retry 준비
 
 ## 2020-5 4주차
 - [x] leaning-hub FrontEnd 초기설정 및 템플릿 적용
