@@ -4,10 +4,16 @@
 - React, Firebase를 활용한 개인 todo-list 및 메모 기능을 제공하는 서비스
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
+
+## 2020-6 4주차
+- [ ] up_note 템플릿 검토
+= [ ] retry 준비
+- [ ] leaning-hub 
+
 ## 2020-6 3주차
 - [x] aws 인스턴스 생성
-- [ ] leaning-hub 작업
-- [ ] DB Index 공부
+- [x] leaning-hub 작업
+- [x] DB Index 공부
 - [ ] up_note 템플릿 검토
 
 ## 2020-6 2주차
