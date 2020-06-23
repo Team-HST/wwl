@@ -8,7 +8,7 @@
 ## 2020-6 4주차
 - [ ] up_note 템플릿 검토
 = [ ] retry 준비
-- [ ] leaning-hub 
+- [x] leaning-hub TODO 정리
 
 ## 2020-6 3주차
 - [x] aws 인스턴스 생성
