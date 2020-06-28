@@ -1,11 +1,11 @@
-# hanul
->"Step by step goes a long way"
+# HANUL
+> "Step by step goes a long way" :runner:
 
-## every single week
+## :warning: every single week :warning:
 > ***"알고리즘 5문제 풀기"***<br> 
 > ***"부스트코스 웹 풀스택 강의 듣기"***
 
-## 2020-07-01
+## :dart: 2020-07-01
 - [ ] 클라우드 정리
 - [ ] 전반기 회고 및 하반기 계획 작성
 - [x] 자료구조(덱) 정리 및 구현
