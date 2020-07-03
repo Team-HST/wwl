@@ -8,9 +8,15 @@
 ## 2020-7 1주차
 - [ ] 블로그 코딩테스트 문제1개 작성
 - [ ] leaning-hub 진행
-- [ ] retry 검색 및 진행
-- [ ] 스터디 계획 
-
+- [x] retry 검색 및 진행
+- [x] 스터디 계획 
+  - 개발대회: https://www.oss.kr/dev_competition#
+    - 7/9일까지 만나서 제출
+  - 이전 해커톤 회고 작성
+  - Effective Java 3E
+    - 차주부터 진행
+    - 1주에 아이템 2개씩 2명 로테이션 발표
+    
 ## 2020-6 5주차
 - [x] retry 준비
 - [x] leaning-hub
