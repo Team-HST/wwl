@@ -7,7 +7,9 @@
 
 ## 2020-7 1주차
 - [ ] 블로그 코딩테스트 문제1개 작성
-- [ ] leaning-hub 진행
+- [x] leaning-hub 진행
+  - 컴포넌트 상수처리 로직 수정
+  - 차후 페이지별 데이터관리
 - [x] retry 검색 및 진행
 - [x] 스터디 계획 
   - 개발대회: https://www.oss.kr/dev_competition#
