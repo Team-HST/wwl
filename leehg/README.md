@@ -4,8 +4,13 @@
 - 블로그 게시글 1개 작성하기
 - 블로그 포스트에 이미지 넣기
 
+## 2020-07-07
+- [x] 블로그 포스트 작성
+  - https://deveely-log.netlify.app/2020-07-10-cloud-series-1/
+
 ## 2020-06-30
-- [ ] 블로그 포스트 작성
+- [x] 블로그 포스트 작성
+  - https://deveely-log.netlify.app/2020-07-03-alghorithm1/
 - [ ] LeaningHub 잔여 기능 개발
   - 기부금 관리 개발
 
