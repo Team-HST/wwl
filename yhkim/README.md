@@ -6,7 +6,10 @@
 - 가능한 매일 운동 30분
 
 ## 2020-7 2주차
-- [ ] leaning-hub 진행
+- [] leaning-hub 진행
+  - 공개 sw 준비로 인한 연기
+- [ ] up-note 시작
+  - 목표 이루자
 - [ ] retry 진행
 - [x] Effective Java 3E 계획 진행
 - [x] Nomad GraphQL 예제 마무리
