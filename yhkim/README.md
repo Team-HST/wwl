@@ -8,8 +8,8 @@
 ## 2020-7 2주차
 - [ ] leaning-hub 진행
 - [ ] retry 진행
-- [ ] Effective Java 3E 계획 진행
-- [ ] Nomad GraphQL 예제 마무리
+- [x] Effective Java 3E 계획 진행
+- [x] Nomad GraphQL 예제 마무리
 
 ## 2020-7 1주차
 - [x] 블로그 코딩테스트 문제1개 작성
