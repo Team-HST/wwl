@@ -4,6 +4,14 @@
 - 블로그 게시글 1개 작성하기
 - 블로그 포스트에 이미지 넣기
 
+## 2020-07-22
+- [x] 블로그 포스트 작성
+  - https://deveely-log.netlify.app/2020-07-17-redis-basic/
+- [ ] Wordee 개발
+  - Task 1개 이상 끝내기
+- [ ] Effective Java 스터디  
+
+
 ## 2020-07-15
 - [x] 블로그 포스트 작성
   - https://deveely-log.netlify.app/2020-07-15-cloud-series-2/
