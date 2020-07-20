@@ -5,12 +5,17 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-7 3주차
+- [ ] nomad graphql, apollo 강의 공부
+- [ ] Effective Java 3E 스터디 준비
+- [ ] retry 진행
+
 ## 2020-7 2주차
-- [] leaning-hub 진행
+- [ ] leaning-hub 진행
   - 공개 sw 준비로 인한 연기
 - [ ] up-note 시작
   - 목표 이루자
-- [ ] retry 진행
+- [x] retry 진행
 - [x] Effective Java 3E 계획 진행
 - [x] Nomad GraphQL 예제 마무리
 
