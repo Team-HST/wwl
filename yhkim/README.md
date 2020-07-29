@@ -5,10 +5,15 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-7 4주차
+- [ ] retry m 준비
+- [ ] 공개 S/W 회의 진행 가능 
+
 ## 2020-7 3주차
-- [ ] nomad graphql, apollo 강의 공부
-- [ ] Effective Java 3E 스터디 준비
-- [ ] retry 진행
+- [x] nomad graphql, apollo 강의 공부
+- [x] Effective Java 3E 스터디 준비
+  - 공개 S/W 회의로 대체
+- [x] retry 진행
 
 ## 2020-7 2주차
 - [ ] leaning-hub 진행
