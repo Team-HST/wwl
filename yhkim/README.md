@@ -6,8 +6,11 @@
 - 가능한 매일 운동 30분
 
 ## 2020-7 4주차
-- [ ] retry m 준비
-- [ ] 공개 S/W 회의 진행 가능 
+- [x] retry m 준비
+- [x] 공개 S/W 회의 진행 가능
+  - git actions
+  - inteliJ plugin ??
+- [ ] express 학습
 
 ## 2020-7 3주차
 - [x] nomad graphql, apollo 강의 공부
