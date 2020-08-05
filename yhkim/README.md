@@ -5,12 +5,16 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-8 1주차
+- [ ] up_note_be express 기본설정
+- [ ] retry hyun gye
+
 ## 2020-7 4주차
 - [x] retry m 준비
 - [x] 공개 S/W 회의 진행 가능
   - git actions
   - inteliJ plugin ??
-- [ ] express 학습
+- [x] express 학습
 
 ## 2020-7 3주차
 - [x] nomad graphql, apollo 강의 공부
