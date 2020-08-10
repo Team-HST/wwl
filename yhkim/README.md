@@ -5,9 +5,14 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-8 2주차
+- [ ] ke online ct
+- [ ] up_note_be express api 연계
+- [ ] webpack, babel onlone 강의 시작
+
 ## 2020-8 1주차
-- [ ] up_note_be express 기본설정
-- [ ] retry hyun gye
+- [x] up_note_be express 기본설정
+- [x] retry hyun gye
 
 ## 2020-7 4주차
 - [x] retry m 준비
