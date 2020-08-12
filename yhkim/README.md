@@ -6,9 +6,9 @@
 - 가능한 매일 운동 30분
 
 ## 2020-8 2주차
-- [ ] ke online ct
+- [x] ke online ct
 - [ ] up_note_be express api 연계
-- [ ] webpack, babel onlone 강의 시작
+- [ ] webpack, babel onlone 강의 search & start
 
 ## 2020-8 1주차
 - [x] up_note_be express 기본설정
