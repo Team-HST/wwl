@@ -5,11 +5,17 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-9 3주차
+- [ ] express 강좌 진행
+- [ ] up_note_be express api 연계
+- [ ] HST 알고리즘 공부 
+
 ## 2020-8 2주차
 - [x] ke online ct
 - [ ] up_note_be express api 연계
-- [ ] webpack, babel onlone 강의 search & start
-
+- [x] webpack, babel onlone 강의 search & start
+  - express 강의 대체
+  
 ## 2020-8 1주차
 - [x] up_note_be express 기본설정
 - [x] retry hyun gye
