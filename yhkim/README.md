@@ -6,9 +6,10 @@
 - 가능한 매일 운동 30분
 
 ## 2020-9 3주차
-- [ ] express 강좌 진행
+- [x] express 강좌 진행
+  - 인프런 node api&tdd
 - [ ] up_note_be express api 연계
-- [ ] HST 알고리즘 공부 
+- [ ] HST 알고리즘 공부
 
 ## 2020-8 2주차
 - [x] ke online ct
