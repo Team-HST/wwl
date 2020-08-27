@@ -8,7 +8,7 @@
 ## 2020-8 4주차
 - [x] 주빈 gap project 완료
 - [ ] exporess 강좌 공부 및 정리
-= [ ] up_node_be api 설정
+- [ ] up_node_be api 설정
 
 ## 2020-8 3주차
 - [x] express 강좌 진행
