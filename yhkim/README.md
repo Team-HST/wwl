@@ -5,8 +5,11 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-9 1주차
+- [ ] jubin 연구 gap 요구사항 반영
+
 ## 2020-8 4주차
-- [x] 주빈 gap project 완료
+- [x] jubin 연구 gap project 완료
 - [ ] exporess 강좌 공부 및 정리
 - [ ] up_node_be api 설정
 
