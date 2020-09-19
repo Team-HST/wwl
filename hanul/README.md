@@ -2,10 +2,18 @@
 > "Step by step goes a long way" :runner:
 
 ## :warning: every single week :warning:
-> ***"알고리즘 5문제 풀기"***<br> 
-> ***"부스트코스 웹 풀스택 강의 듣기"***
+> ***"알고리즘 풀기"***<br> 
 
-## :dart: 2020-07-01
+## :dart: 2020-09-26
+- [ ] computer-science 5개 이상 공부 및 정리
+- [ ] 알고리즘 기출 10문제 이상 풀기
+- [ ] printf 구현 완료
+- [ ] 블로그 about 수정
+- [ ] 디자인 패턴 공부 완료
+
+## :runner::runner::runner::runner: reboot..
+
+## 2020-07-01
 - [ ] 클라우드 정리
 - [ ] 전반기 회고 및 하반기 계획 작성
 - [x] 자료구조(덱) 정리 및 구현
