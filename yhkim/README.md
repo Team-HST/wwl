@@ -6,7 +6,7 @@
 - 가능한 매일 운동 30분
 
 ## 2020-10 2주차
-- [ ] tripstory 로그인 진행
+- [x] tripstory 로그인 진행
 - [ ] express 강의 공부 및 정리
 - [ ] retry 준비
 
