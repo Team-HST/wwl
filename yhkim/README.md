@@ -5,9 +5,14 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-10 4주차
+- [ ] triptale redux-thunk 적용 / 여행 등록 ui작업
+- [ ] retry 다음주 부터 진행가능하도록 생성
+- [ ] express 강의 공부
+
 ## 2020-10 3주차
-- [ ] triptale 메인 진행
-- [ ] retry 준비
+- [x] triptale 메인 진행
+- [x] retry 준비
 
 ## 2020-10 2주차
 - [x] triptale 로그인 진행
