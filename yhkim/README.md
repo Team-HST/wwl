@@ -6,7 +6,7 @@
 - 가능한 매일 운동 30분
 
 ## 2020-10 4주차
-- [x[ triptale redux-thunk 적용 / 여행 등록 ui작업
+- [x] triptale redux-thunk 적용 / 여행 등록 ui작업
 - [ ] retry 다음주 부터 진행가능하도록 생성
 - [ ] express 강의 공부
 
