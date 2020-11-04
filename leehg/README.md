@@ -4,6 +4,11 @@
 - 블로그 게시글 1개 작성하기
 - 블로그 포스트에 이미지 넣기
 
+## 2020-11-04
+- [x] 블로그 포스트 작성
+  - https://deveely-log.netlify.app/2020-11-04-java-file-mime-type/
+- [x] Triptale 개발
+
 ## 2020-10-28
 - [x] Triptale 개발
 
