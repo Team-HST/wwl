@@ -5,9 +5,15 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020 11 2주차
+- [ ] retry 체크
+- [ ] triptale 지도 api 모듈 생성
+  - 등록 지도 적용
+  - 목록 search api 적용
+
 ## 2020-11 1주차
-- [ ] 이사 준비 후 retry
-- [ ] triptale 여행 등록 및 여행 목록 api 연계
+- [x] 이사 준비 후 retry
+- [x] triptale 여행 등록 및 여행 목록 api 연계
 
 ## 2020-10 4주차
 - [x] triptale redux-thunk 적용 / 여행 등록 ui작업
