@@ -10,6 +10,7 @@
 - [ ] triptale 지도 api 모듈 생성
   - 등록 지도 적용
   - 목록 search api 적용
+- [x] triptaile 여행 검색 컴포넌트 api 연계
 
 ## 2020-11 1주차
 - [x] 이사 준비 후 retry
