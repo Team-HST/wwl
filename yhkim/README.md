@@ -7,7 +7,7 @@
 
 ## 2020 11 2주차
 - [ ] retry 체크
-- [ ] triptale 지도 api 모듈 생성
+- [x] triptale 지도 api 모듈 생성
   - 등록 지도 적용
   - 목록 search api 적용
 - [x] triptaile 여행 검색 컴포넌트 api 연계
