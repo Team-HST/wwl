@@ -9,6 +9,7 @@
 - [ ] retry 작업
 - [ ] triptale 작업
   - 여행 일차 장소 등록 페이지 작업
+- [] react next traning 진행 
 
 ## 2020-12 2주차
 - [x] retry 정리
