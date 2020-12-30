@@ -7,9 +7,11 @@
 
 ## 2020-12 4주차
 - [ ] retry 작업
-- [ ] triptale 작업
+- [x] triptale 작업
   - 여행 일차 장소 등록 페이지 작업
-- [] react next traning 진행 
+- [x] react next traning 진행
+- [ ] javascript 도서 ebook 구매
+  - You Don’t Know JS 스코프와 클로저 
 
 ## 2020-12 2주차
 - [x] retry 정리
