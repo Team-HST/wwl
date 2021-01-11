@@ -5,9 +5,16 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
-## 2020-1 1주차
-- [ ] retry 시작
+## 2020-1 2주차
+- [ ] retry 준비 & 시작
 - [ ] triptale 작업
+  - 여행 일차 장소 표출 페이지 작업
+- [ ] javascript 도서 ebook 구매
+  - You Don’t Know JS 스코프와 클로저 
+
+## 2020-1 1주차
+- [x] retry 시작
+- [x] triptale 작업
   - 여행 일차 장소 등록 지도 API 연계 작업
 - [ ] javascript 도서 ebook 구매
   - You Don’t Know JS 스코프와 클로저 
