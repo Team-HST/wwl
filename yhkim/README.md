@@ -7,7 +7,8 @@
 
 ## 2020-1 2주차
 - [ ] retry 준비 & 시작
-- [ ] react next traning 진행
+- [ ] 코테 문제 풀고 블로그 
+- [x] react next traning 진행
 - [ ] triptale 작업
   - 여행 일차 장소 표출 페이지 작업
 - [ ] javascript 도서 ebook 구매
