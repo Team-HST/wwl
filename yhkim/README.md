@@ -9,7 +9,7 @@
 - [ ] retry 준비 & 시작
 - [ ] 코테 문제 풀고 블로그 
 - [x] react next traning 진행
-- [ ] triptale 작업
+- [x] triptale 작업
   - 여행 일차 장소 표출 페이지 작업
 - [ ] javascript 도서 ebook 구매
   - You Don’t Know JS 스코프와 클로저 
