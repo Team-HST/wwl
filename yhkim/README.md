@@ -5,6 +5,13 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2020-2 2주차
+- [ ] retry 시작
+- [ ] triptale
+  - 여행 장소 상세 모달 표출
+= [x] react test 공부
+  - enzyme, react-test-library
+
 ## 2020-2 1주차
 - [x] react-saga 정리
 - [x] triptale 작업
