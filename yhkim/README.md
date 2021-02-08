@@ -9,7 +9,7 @@
 - [ ] retry 시작
 - [ ] triptale
   - 여행 장소 상세 모달 표출
-= [x] react test 공부
+- [x] react test 공부
   - enzyme, react-test-library
 
 ## 2020-2 1주차
