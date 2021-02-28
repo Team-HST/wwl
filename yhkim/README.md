@@ -6,10 +6,10 @@
 - 가능한 매일 운동 30분
 
 ## 2021-2 4주차
-- [ ] triptale
+- [x] triptale
   - 모바일 환경 navigation 작업
   - docker 강의 공부 및 triptale 배포
-- [ ] retry
+- [x] retry
 
 ## 2021-2 3주차
 - [x] triptale
