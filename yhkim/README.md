@@ -8,13 +8,11 @@
 ## 2021-3 1주차
 - [ ] triptale Netlify 배포
 - [ ] triptale PMA 기본 예제 적용
-- [ ] retry 
 
 ## 2021-2 4주차
-- [ ] triptale
+- [x] triptale
   - 모바일 환경 navigation 작업
   - docker 강의 공부 및 triptale 배포
-- [ ] 도커 강의 진행
 
 ## 2021-2 3주차
 - [x] triptale
