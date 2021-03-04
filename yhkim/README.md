@@ -6,8 +6,8 @@
 - 가능한 매일 운동 30분
 
 ## 2021-3 1주차
-- [ ] triptale Netlify 배포
-- [ ] triptale PMA 기본 예제 적용
+- [x] triptale Netlify 배포
+- [x] triptale PMA 기본 예제 적용
 
 ## 2021-2 4주차
 - [x] triptale
