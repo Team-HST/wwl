@@ -5,6 +5,12 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2021-3 2주차
+- [ ] nodebird 강의 공부
+- [ ] AWS docker 설정
+- [ ] retry 추가
+- [ ] HST 팀 새로운 토이 프로젝트 진행
+
 ## 2021-3 1주차
 - [x] triptale Netlify 배포
 - [x] triptale PMA 기본 예제 적용
