@@ -9,7 +9,8 @@
 - [ ] nodebird 강의 공부
 - [ ] AWS docker 설정
 - [ ] retry 추가
-- [ ] HST 팀 새로운 토이 프로젝트 진행
+- [x] HST 팀 새로운 토이 프로젝트 진행
+  - devus 초기 프로젝트 
 
 ## 2021-3 1주차
 - [x] triptale Netlify 배포
