@@ -6,9 +6,9 @@
 - 가능한 매일 운동 30분
 
 ## 2021-3 2주차
-- [ ] nodebird 강의 공부
-- [ ] AWS docker 설정
-- [ ] retry 추가
+- [x] nodebird 강의 공부
+- [x] docker 공부
+- [x] retry 추가
 - [x] HST 팀 새로운 토이 프로젝트 진행
   - devus 초기 프로젝트 
 
