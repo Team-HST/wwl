@@ -6,7 +6,7 @@
 - 가능한 매일 운동 30분
 
 ## 2021-3 3주차
-- [] kakao clone coding 시작
+- [x] kakao clone coding 시작
 - [x] devus 레이아웃 회의
 - [ ] docker 공부
 - [x] retry 추가
