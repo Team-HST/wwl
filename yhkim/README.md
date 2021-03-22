@@ -5,12 +5,18 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2021-3 4주차
+- [ ] retry 추가
+- [ ] devus 유저 프로필 설정 작업
+  - 기본 프로필 정보 수정 제공
+- [ ] kakao clone coding 강의 공부
+
 ## 2021-3 3주차
 - [x] kakao clone coding 시작
 - [x] devus 레이아웃 회의
 - [ ] docker 공부
 - [x] retry 추가
-- [ ] nodebird 강의 공부
+- [x] nodebird 강의 공부
 
 ## 2021-3 2주차
 - [x] nodebird 강의 공부
