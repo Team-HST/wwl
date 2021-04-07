@@ -7,10 +7,10 @@
 
 
 ## 2021-4 1주차
-- [ ] retry 추가
-- [ ] up_note 사이드 메뉴 작업
+- [x] retry 추가
+- [x] up_note 사이드 메뉴 UI 작업
 - [ ] kakao clone 친구 페이지 작업
-- [ ] webpack 강의 수강
+- [x] webpack 강의 수강
 
 ## 2021-3 5주차
 - [x] retry 추가
