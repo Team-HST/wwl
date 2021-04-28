@@ -5,11 +5,16 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2021-4주차
+- [ ] retry 추가 & 진행
+- [ ] devus 진행
+- [ ] webpack 강의 진행 
+
 ## 2021-4 2주차
-- [ ] retry 추가
-- [ ] devus & 해커톤 회의
-- [ ] kakao clone 친구 페이지 작업
-- [ ] webpack 강의 수강
+- [x] retry 추가
+- [x] devus & 해커톤 회의
+- [x] kakao clone 친구 페이지 작업
+- [x] webpack 강의 수강
 
 ## 2021-4 1주차
 - [x] retry 추가
