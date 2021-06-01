@@ -5,8 +5,12 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2021-6 1주차 
+- [ ] cp 적응
+- [ ] devus oauth 정리 및 적용
+
 ## 2021-5 3주차
-- [ ] devus github, kakao, naver oauth 테스트
+- [x] devus github, kakao, naver oauth 테스트
 
 ## 2021-5 2주차
 - [x] 적응 준비
