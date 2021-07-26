@@ -13,7 +13,7 @@
 ## 2021-7 3주차
 - [x] re:united
   - 이번주 문제 풀기
-- [x hst-talk
+- [x] hst-talk
   - 소스정리
   - 배포
 
