@@ -5,8 +5,17 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
-## 2021-7주차
-- [ ] re:united
+## 2021-9 1주차
+- [ ] nklcb-fe 설정
+  - SWR, Redux & Redux-Saga 선택 검토
+  - eslint(airbnb), prettier 설정
+  - style 전처리기 선택 검토
+  - 화면 구상
+- [ ] next.js 서버 배포 테스트 (docket, pm2)
+- [ ] crawling test
+ 
+## 2021-7 4주차
+- [x] re:united
   - 이번주 문제 풀고 리뷰
 - [ ] crawling test
 
