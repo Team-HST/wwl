@@ -5,11 +5,18 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
-## 2021-8 4주차
+## 2021-9 4주차
 - [ ] re:united
+  - 알고리즘 차주 리뷰
+- [ ] hst Hyungyu
+  - 알고리즘 리뷰
+- [ ] nklcb 메인 페이지 디자인 작업
+
+## 2021-8 4주차
+- [x] re:united
   - 문제 재풀이
-- [ ] next.js docker pm2 설정
-- [ ] HTML&CSS box-sizing 포스팅
+- [x] next.js docker pm2 설정
+- [x] HTML&CSS box-sizing 포스팅
 
 ## 2021-8 1주차
 - [x] nklcb-fe 설정
