@@ -5,10 +5,16 @@
 - 매주 블로그 1개이상 포스팅
 - 가능한 매일 운동 30분
 
+## 2021-10 2주차
+- [ ] hst 알고리즘 리뷰
+- [ ] re:united 알고리즘 리뷰
+- [ ] nklcb 메인 페이지 디자인 작업
+- [ ] Hyungyu retry 정리
+
 ## 2021-9 4주차
-- [ ] re:united
+- [x] re:united
   - 알고리즘 차주 리뷰
-- [ ] hst Hyungyu
+- [x] hst Hyungyu
   - 알고리즘 리뷰
 - [ ] nklcb 메인 페이지 디자인 작업
 
