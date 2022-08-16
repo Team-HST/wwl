@@ -13,7 +13,7 @@
 ## 2022.08.08 - 2022.08.14
  - [ ] 알고리즘 1문제 풀기
  - [x] 모니모카드 -> 고정지출 전체 자동이체
- ~~- [ ] Spring batch-job-tasklet 익히기~~
+ - [ ] ~~Spring batch-job-tasklet 익히기~~
  - [x] React Version Crawling
 
 ## 2022.08.15 - 2022.08.21
